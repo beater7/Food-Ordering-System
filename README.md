@@ -1,3 +1,3 @@
 # Food-Ordering-System
-# Visual Studio C++ project
+Download the SofVisual Studio C++ project
 # CpE Software Design Project 
