@@ -1,0 +1,9 @@
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.vcxproj.AssemblyReference.cache
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.MyForm.resources
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.vcxproj.GenerateResource.cache
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.exe
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.kmgrubs.resources
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.shawarma.resources
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.waffles.resources
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\x64\Debug\SofDes.Checkout.resources

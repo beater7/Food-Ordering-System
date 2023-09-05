@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,31): error C2665: 'SofDes::shawarma::shawarma': no overloaded function could convert all the argument types
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\shawarma.h(615,1): message : could be 'SofDes::shawarma::shawarma(const SofDes::shawarma %)'
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,31): message : 'SofDes::shawarma::shawarma(const SofDes::shawarma %)': cannot convert argument 1 from 'SofDes::MyForm ^' to 'const SofDes::shawarma %'
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,32): message : Reason: cannot convert from 'SofDes::MyForm ^' to 'const SofDes::shawarma'
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,32): message : No user-defined-conversion operator available, or
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,32): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\shawarma.h(44,3): message : or       'SofDes::shawarma::shawarma(System::Windows::Forms::Button ^)'
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,31): message : 'SofDes::shawarma::shawarma(System::Windows::Forms::Button ^)': cannot convert argument 1 from 'SofDes::MyForm ^' to 'System::Windows::Forms::Button ^'
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,32): message : No user-defined-conversion operator available, or
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,32): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\sobre\OneDrive\Desktop\SOFDES Project\SofDes\MyForm.h(244,31): message : while trying to match the argument list '(SofDes::MyForm ^)'
+  shawarma.cpp
+  Generating Code...
