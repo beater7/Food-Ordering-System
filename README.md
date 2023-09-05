@@ -1,3 +1,5 @@
 # Food-Ordering-System
-Download the SofVisual Studio C++ project
-# CpE Software Design Project 
+CpE Software Design Project 
+Download the SOFTDES Project and run it in Visual Studio C++.
+
+
